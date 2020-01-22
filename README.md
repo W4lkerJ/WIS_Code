@@ -1,4 +1,4 @@
-# WIS_Code
+# Object detection with YoloV3 and OpenCV in Python
 ## Installation
 Install the necessary requirements via "pip install -r requirements.txt"
 
